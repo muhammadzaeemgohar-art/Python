@@ -1,0 +1,6 @@
+Subjects List:
+1-Python:
+2-Statistics:
+3-Linear Algebra:
+4-Data Science:
+5-Programming:
