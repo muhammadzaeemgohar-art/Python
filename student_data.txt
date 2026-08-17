@@ -2,4 +2,8 @@ Name : Ali
 Roll Number : 1001
 Python : 78.0
 Statistics : 91.0
-Mathematics : 54.0
+Mathematics : 54.0Name : Amna
+Roll Number : 1002
+Python : 66.0
+Statistics : 69.0
+Mathematics : 78.0
