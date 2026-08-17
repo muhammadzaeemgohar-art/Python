@@ -1,0 +1,1 @@
+[{'ID': 1001, 'Name': 'Sarah Khan', 'Department': 'Finance', 'Salary': 125000.0}][{'ID': 1002, 'Name': 'Usman Khan', 'Department': 'Engineering', 'Salary': 125000.0}, {'ID': 1003, 'Name': 'Laiba Farz', 'Department': 'Data Analytics', 'Salary': 100000.0}]
