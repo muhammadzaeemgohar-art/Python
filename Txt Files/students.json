@@ -3,7 +3,7 @@
         "roll_number": 1001,
         "name": "Ali Khan",
         "department": "Computer Science",
-        "cgpa": 3.61
+        "cgpa": 3.5
     },
     {
         "roll_number": 1002,
@@ -598,11 +598,5 @@
         "name": "Rida Fatima",
         "department": "Artificial Intelligence",
         "cgpa": 3.92
-    },
-    {
-        "roll_number": 1101,
-        "name": "Ali Asghar",
-        "department": "Data Science",
-        "cgpa": 3.19
     }
 ]
